@@ -1,6 +1,6 @@
 # json-parse-to-list
 
-## About app
+## About the app
 
 <p align="center">
   <img src="Documentation/preview.gif">
