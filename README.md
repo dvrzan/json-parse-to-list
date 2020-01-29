@@ -15,8 +15,8 @@ Offers can then be sorted by name or cashback.
 </br>
 </br>
 
->This is a learning project created by implementing different Swift components. 
->Check my portfolio at [dvrzan.github.io/](https://dvrzan.github.io)
+>This is a learning project created by implementing different Swift components.</br>
+>Check my portfolio at [dvrzan.github.io](https://dvrzan.github.io)
 
 </br>
 
