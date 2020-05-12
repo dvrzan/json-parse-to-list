@@ -1,4 +1,4 @@
-# Json parse to list POC
+# JSON parse to list
 
 ## About the app
 
